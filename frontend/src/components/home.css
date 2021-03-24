@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 130, 217);
+    text-align: center;
+}
+.alig{
+    text-align: center;
+    border: darkblue solid 1px;
+    width: 30%;
+    padding: 4px;
+}
